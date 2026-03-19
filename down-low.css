@@ -1,16 +1,77 @@
-/* Flex classes */
-
-.dis-flex{display: flex;} /* flex */
-
-.flex-row{flex-direction: row;} /*direction*/
+/* display classes */
+.dis-flex{display: flex;}
+.dis-block{display: block;}
+/* Flex classes */ 
+.flex-row{flex-direction: row;}
 .flex-row-rev{flex-direction: row-reverse;}
 .flex-col{flex-direction: column;}
 .flex-col-rev{flex-direction: column-reverse;}
-
-.dis-flex-row{display: flex; flex-direction: row;} /*flex + direction*/
+.dis-flex-row{display: flex; flex-direction: row;}
 .dis-flex-row-rev{display: flex; flex-direction: row-reverse;}
 .dis-flex-col{display: flex; flex-direction: column;}
 .dis-flex-col-rev{display: flex; flex-direction: column-reverse;}
-
 .flex-auto{flex: auto;}
+/* border settings */
+/* border styles */
+.bor-style-sol{border-style: solid;}
+.bor-style-dot{border-style: dotted;}
+.bor-style-das{border-style: dashed;}
+.bor-style-gro{border-style: groove;}
+.bor-style-hid{border-style: hidden;}
+.bor-style-rid{border-style: ridge;}
+/* border colors */
+.bor-col-red{border-color: red;}
+.bor-col-green{border-color: green;}
+.bor-col-blue{border-color: blue;}
+.bor-col-yellow{border-color: yellow;}
+.bor-col-orange{border-color: orange;}
+.bor-col-pink{border-color: pink;}
+.bor-col-purple{border-color: purple;}
+.bor-col-white{border-color: white;}
+.bor-col-black{border-color: black;}
+/* border width */
+.bor-wid-1px{border-width: 1px;}
+.bor-wid-2px{border-width: 2px;}
+.bor-wid-3px{border-width: 3px;}
+.bor-wid-4px{border-width: 4px;}
+.bor-wid-5px{border-width: 5px;}
+.bor-wid-6px{border-width: 6px;}
+.bor-wid-7px{border-width: 7px;}
+.bor-wid-8px{border-width: 8px;}
+.bor-wid-9px{border-width: 9px;}
+.bor-wid-10px{border-width: 10px;}
+/* border radius */
+.bor-rad-1px{border-radius: 1px;}
+.bor-rad-2px{border-radius: 2px;}
+.bor-rad-3px{border-radius: 3px;}
+.bor-rad-4px{border-radius: 4px;}
+.bor-rad-5px{border-radius: 5px;}
+.bor-rad-10px{border-radius: 10px;}
+.bor-rad-20px{border-radius: 20px;}
+.bor-rad-25px{border-radius: 25px;}
+.bor-rad-50px{border-radius: 50px;}
+/* font settings */
+/* font size */
+.font-size-xxs{font-size: xx-small;}
+.font-size-xs{font-size: x-small;}
+.font-size-sr{font-size: smaller;}
+.font-size-s{font-size: small;}
+.font-size-m{font-size: medium;}
+.font-size-lr{font-size: larger;}
+.font-size-l{font-size: large;}
+.font-size-xl{font-size: x-large;}
+.font-size-xxl{font-size: xx-large;}
+/* font style */
+.font-sty-nor{font-style:normal;}
+.font-sty-ita{font-style: italic;}
+.font-sty-obl{font-style: oblique;}
+/* font family */
+.font-fam-sase{font-family: sans-serif;}
+.font-fam-se{font-family: serif;}
+/* font */
+.test{font}
 
+
+
+
+/* addons under */
