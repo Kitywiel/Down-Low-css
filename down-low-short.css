@@ -1,0 +1,15 @@
+/* Flex Classes */
+
+.df{display: flex;} /* flex */
+
+.fdr{flex-direction: row;} /*direction*/
+.fdrr{flex-direction: row-reverse;}
+.fdc{flex-direction: column;}
+.fdcr{flex-direction: column-reverse;}
+
+.df-dr{display: flex; flex-direction: row;} /*flex + direction*/
+.df-drr{display: flex; flex-direction: row-reverse;}
+.df-dc{display: flex; flex-direction: column;}
+.df-dcr{display: flex; flex-direction: column-reverse;}
+
+.f-a{flex: auto;}

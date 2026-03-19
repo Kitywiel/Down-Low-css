@@ -1,0 +1,16 @@
+/* Flex classes */
+
+.dis-flex{display: flex;} /* flex */
+
+.flex-row{flex-direction: row;} /*direction*/
+.flex-row-rev{flex-direction: row-reverse;}
+.flex-col{flex-direction: column;}
+.flex-col-rev{flex-direction: column-reverse;}
+
+.dis-flex-row{display: flex; flex-direction: row;} /*flex + direction*/
+.dis-flex-row-rev{display: flex; flex-direction: row-reverse;}
+.dis-flex-col{display: flex; flex-direction: column;}
+.dis-flex-col-rev{display: flex; flex-direction: column-reverse;}
+
+.flex-auto{flex: auto;}
+
