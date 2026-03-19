@@ -1,0 +1,77 @@
+/* down low basic pack */
+
+/* display */
+.dis-flex{display: flex;}
+.dis-bloc{display: block;}
+.dis-inli{display: inline;}
+
+/* flex */
+.flex-row{flex-direction: row;}
+.flex-row-rev{flex-direction: row-reverse;}
+.flex-col{flex-direction: column;}
+.flex-col-rev{flex-direction: column-reverse;}
+.dis-flex-row{display: flex; flex-direction: row;}
+.dis-flex-row-rev{display: flex; flex-direction: row-reverse;}
+.dis-flex-col{display: flex; flex-direction: column;}
+.dis-flex-col-rev{display: flex; flex-direction: column-reverse;}
+
+/* border */
+.bor-style-hid{border-style: hidden;}
+.bor-style-sol{border-style: solid;}
+.bor-style-dot{border-style: dotted;}
+.bor-wid-1px{border-width: 1px;}
+.bor-wid-2px{border-width: 2px;}
+.bor-wid-3px{border-width: 3px;}
+.bor-wid-4px{border-width: 4px;}
+.bor-wid-5px{border-width: 5px;}
+.bor-rad-1px{border-radius: 1px;}
+.bor-rad-2px{border-radius: 2px;}
+.bor-rad-3px{border-radius: 3px;}
+.bor-rad-4px{border-radius: 4px;}
+.bor-rad-5px{border-radius: 5px;}
+.bor-rad-10px{border-radius: 10px;}
+.bor-rad-20px{border-radius: 20px;}
+.bor-rad-25px{border-radius: 25px;}
+
+/* font */
+.font-size-sr{font-size: smaller;}
+.font-size-s{font-size: small;}
+.font-size-m{font-size: medium;}
+.font-size-lr{font-size: larger;}
+.font-size-l{font-size: large;}
+.font-sty-nor{font-style:normal;}
+.font-sty-ita{font-style: italic;}
+.font-sty-obl{font-style: oblique;}
+.font-wei-100{font-weight: 100;}
+.font-wei-200{font-weight: 200;}
+.font-wei-300{font-weight: 300;}
+.font-wei-400{font-weight: 400;}
+.font-wei-500{font-weight: 500;}
+.font-wei-600{font-weight: 600;}
+.font-wei-700{font-weight: 700;}
+.font-wei-800{font-weight: 800;}
+.font-wei-900{font-weight: 900;}
+
+
+
+/* color */
+.bor-col-red{border-color: red;}
+.bor-col-blue{border-color: blue;}
+.bor-col-green{border-color: green;}
+.bor-col-yellow{border-color: yellow;}
+.bor-col-white{border-color: white;}
+.bor-col-black{border-color: black;}
+.col-red{color: red;}
+.col-blue{color: blue;}
+.col-green{color: green;}
+.col-yellow{color: yellow;}
+.col-white{color: white;}
+.col-black{color: black;}
+.bac-col-red{background-color: red;}
+.bac-col-blue{background-color: blue;}
+.bac-col-green{background-color: green;}
+.bac-col-yellow{background-color: yellow;}
+.bac-col-white{background-color: white;}
+.bac-col-black{background-color: black;}
+
+/*  */
